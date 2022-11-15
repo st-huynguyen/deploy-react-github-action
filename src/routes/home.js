@@ -7,6 +7,7 @@ const Home = () => {
     <div className="page">
       <AWSIcon />
       <h1>Deploy a SPA to AWS S3 and Cloudfront</h1>
+      <p>Set up Github action workflow</p>
       <Link to="/s3">What is AWS S3?</Link>
     </div>
   );
